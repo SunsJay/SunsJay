@@ -10,17 +10,15 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/SunsJay/SunsJay/main/sunsjay.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Rider`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud and 💻OS.
-
+I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud and 💻OS.
  
  🚧 Potential project that I have plans to work on👨‍⚕️📱[**CICV-OS**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Axum Combat**](https://github.com/Souravdey777/Readio).
 
- 🔭 I’m planning to start a project **🧐 Rust: Learn by TDD** to help people learn rust by tdd.
+ 🔭 I’m planning to start a project **🧐 Rust: Learn by TDD** to help people learn rust use other way.
  
  🚀 I’m currently learning os develop by rust.
  
-
- 💬 Ask me about Full Stack Development, OS, and Blogging .
+ 💬 I'm more than happy to help answer any questions that I know.
  
  👨‍🏫 Need help! You can email to me!
  
