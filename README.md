@@ -29,6 +29,7 @@ I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Blogg
 
 ### Tech & Tools Preference 💻
 <img src="https://img.shields.io/badge/-Rust-E34F26?style=flat&logo=rust&logoColor=ffffff"><img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Go-3178C6?style=flat&logo=Go&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
