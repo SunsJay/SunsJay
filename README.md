@@ -10,20 +10,15 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Rider`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud and 💻OS
-
-
+I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Rider`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud and 💻OS.
 
  
- 🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio)
+ 🚧 Potential project that I have plans to work on👨‍⚕️📱[**CICV-OS**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Axum Combat**](https://github.com/Souravdey777/Readio).
 
- 🔭 I’m planning to start a project **🧐 Vision: ML and Cloud-based tech. for Blinds**.
+ 🔭 I’m planning to start a project **🧐 Rust: Learn by TDD** to help people learn rust by tdd.
  
- 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
-
- 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBookJs-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a>
+ 🚀 I’m currently learning os develop by rust.
  
- 👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
 
  💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
  
