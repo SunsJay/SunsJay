@@ -20,9 +20,9 @@ I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Rider
  🚀 I’m currently learning os develop by rust.
  
 
- 💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
+ 💬 Ask me about Full Stack Development, OS, and Blogging .
  
- 👨‍🏫 Need help! You can reach out to me. I am a Software Development Mentor [**@Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey) & [**@ADPList**][ADPList]
+ 👨‍🏫 Need help! You can email to me!
  
  ☕ 👇 Let's have coffee together
  
