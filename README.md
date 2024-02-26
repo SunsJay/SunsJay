@@ -10,18 +10,10 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
-
-Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Software Development Engineer II`** | **`Ex-TCS Digital`**
-
-🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Rider`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud and 💻OS
 
 
 
-
- 🎁 Thanks for checking my profile. I got something for you 👉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
-
- 👨‍💻 I'm currently working on one side projects - **Testimonials as a Service**
  
  🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio)
 
