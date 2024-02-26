@@ -24,12 +24,6 @@ I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Blogg
  
  ☕ 👇 Let's have coffee together
  
- <a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
- 
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
