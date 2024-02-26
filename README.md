@@ -22,7 +22,7 @@ I am  30 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Blogg
  
  👨‍🏫 Need help! You can email to me!
  
- ☕ 👇 Let's have coffee together
+ 🚴 I really enjoy cycling, and I dream of biking around the world. If you also love cycling and know some great routes, please share them with me.
  
 ---
 
